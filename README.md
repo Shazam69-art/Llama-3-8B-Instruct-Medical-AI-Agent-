@@ -1,4 +1,4 @@
-# Medical AI Agent
+# Meta-Llama-3-8B-Instruct Medical AI Agent
 
 ## Overview
 Medical question-answering system using Llama 3 8B with external medical knowledge integration.  
